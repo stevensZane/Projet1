@@ -1,0 +1,7 @@
+1) créer un dossier appelé projet 1
+2) ouvrir dans un éditeur de code 
+3) initialiser notre projet en projet git avec la commande git init
+4) créer un fichier test.py en mettant du code Python 
+5) git statut pour l'état du projet 
+6) git add test.py ( pour seul fichier avec le nom du fichier)
+git add all pour ajouter tout les fichiers
